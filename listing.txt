@@ -1,0 +1,31 @@
+total 1002064
+drwxr-xr-x    2 tlberglund  staff         68 Sep  6 13:31 Applications
+drwxr-xr-x@   8 tlberglund  staff        272 Oct  9 12:48 Box Documents
+drwx------+  11 tlberglund  staff        374 Oct 14 06:10 Desktop
+drwx------+  52 tlberglund  staff       1768 Sep 14 21:34 Documents
+drwx------+  46 tlberglund  staff       1564 Oct 13 01:30 Downloads
+drwx------@  33 tlberglund  staff       1122 Oct 11 16:23 Dropbox
+drwxr-xr-x    4 tlberglund  staff        136 Dec  4  2012 Dropbox-github
+drwx------@  61 tlberglund  staff       2074 Sep 11 03:43 Library
+drwx------+  28 tlberglund  staff        952 Oct  9 16:50 Movies
+drwx------+   9 tlberglund  staff        306 Sep 26  2012 Music
+drwx------   53 tlberglund  staff       1802 Jul 26  2012 Old Personal Documents
+drwx------+  59 tlberglund  staff       2006 Aug 29 00:56 Pictures
+drwxr-xr-x+   5 tlberglund  staff        170 Jul 25  2012 Public
+drwxr-xr-x   65 tlberglund  staff       2210 Sep  5 14:44 Purchased Software
+drwxr-xr-x+   3 tlberglund  staff        102 Mar 17  2013 Sites
+drwxr-xr-x   12 tlberglund  staff        408 Dec  1  2012 Tools
+drwxr-xr-x    3 root        wheel        102 Sep 18 20:58 Xcode.app
+drwxr-xr-x  135 tlberglund  staff       4590 Oct 11 20:12 code
+-rw-r--r--@   1 tlberglund  staff  513056256 Oct  8 03:14 disk.dmg
+drwxr-xr-x    3 tlberglund  staff        102 Aug 10  2012 eclipse-workspace
+drwxr-xr-x   44 tlberglund  staff       1496 Sep 13 18:56 github
+drwxr-xr-x   17 tlberglund  staff        578 Feb 13  2013 gradle-book-2
+drwxr-xr-x    3 tlberglund  staff        102 Jul 19 17:04 old-emacs
+drwxr-xr-x    6 tlberglund  staff        204 Aug 12 04:49 poems
+drwxr-xr-x    3 tlberglund  staff        102 Aug  1 07:34 recover
+drwxr-xr-x   21 tlberglund  staff        714 Sep  7 23:45 scripts
+drwxr-xr-x    2 tlberglund  staff         68 Aug 11 02:19 src
+drwxr-xr-x   28 tlberglund  staff        952 Oct  6  2012 timberglund.com
+drwxr-xr-x   16 tlberglund  staff        544 Jul 26  2012 workshops
+drwxr-xr-x   32 tlberglund  staff       1088 Jun 24 00:34 zachberglund.com
