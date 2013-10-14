@@ -7,10 +7,6 @@ drwx------@  33 tlberglund  staff       1122 Oct 11 16:23 Dropbox
 drwxr-xr-x    4 tlberglund  staff        136 Dec  4  2012 Dropbox-github
 drwx------@  61 tlberglund  staff       2074 Sep 11 03:43 Library
 drwx------+  28 tlberglund  staff        952 Oct  9 16:50 Movies
-drwx------+   9 tlberglund  staff        306 Sep 26  2012 Music
-drwx------+  59 tlberglund  staff       2006 Aug 29 00:56 Pictures
-drwxr-xr-x+   5 tlberglund  staff        170 Jul 25  2012 Public
-drwxr-xr-x   65 tlberglund  staff       2210 Sep  5 14:44 Purchased Software
 drwxr-xr-x+   3 tlberglund  staff        102 Mar 17  2013 Sites
 drwxr-xr-x   12 tlberglund  staff        408 Dec  1  2012 Tools
 drwxr-xr-x    3 root        wheel        102 Sep 18 20:58 Xcode.app
